@@ -1,0 +1,14 @@
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\bin\Debug\netcoreapp2.1\coreassign.deps.json
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\bin\Debug\netcoreapp2.1\coreassign.runtimeconfig.json
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\bin\Debug\netcoreapp2.1\coreassign.runtimeconfig.dev.json
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\bin\Debug\netcoreapp2.1\coreassign.dll
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\obj\Debug\netcoreapp2.1\coreassign.csprojAssemblyReference.cache
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\obj\Debug\netcoreapp2.1\coreassign.csproj.CoreCompileInputs.cache
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\obj\Debug\netcoreapp2.1\coreassign.RazorAssemblyInfo.cache
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\obj\Debug\netcoreapp2.1\coreassign.RazorAssemblyInfo.cs
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\obj\Debug\netcoreapp2.1\coreassign.AssemblyInfoInputs.cache
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\obj\Debug\netcoreapp2.1\coreassign.AssemblyInfo.cs
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\obj\Debug\netcoreapp2.1\coreassign.RazorTargetAssemblyInfo.cache
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\bin\Debug\netcoreapp2.1\coreassign.pdb
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\obj\Debug\netcoreapp2.1\coreassign.dll
+C:\Users\Magiq\Documents\Proiect cedra\coreassign\coreassign\obj\Debug\netcoreapp2.1\coreassign.pdb
